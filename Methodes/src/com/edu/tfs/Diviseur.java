@@ -11,7 +11,7 @@ public class Diviseur
 
 	public static void main(String[] args)
 	{
-		System.out.println(pgcd(180,120));
+		System.out.println(pgcd(24,30));
 
 	}
 	
